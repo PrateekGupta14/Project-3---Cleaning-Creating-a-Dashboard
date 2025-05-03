@@ -1,0 +1,33 @@
+📊 Excel Project Summary: Column Chart Creation from Population Data
+
+✅ Client Requirement
+The client provided a dataset containing demographic statistics of various Indian cities, including population, literacy, and sex ratio data. The specific requirement was to:
+
+Analyze the Sex Ratio data.
+Identify the Top 5 cities with the highest sex ratio.
+Represent the result visually using a column chart.
+
+🧾 What Was Done?
+
+Data Cleaning and Preparation:
+Extracted relevant columns (City, Sex Ratio).
+Sorted the data based on the "Sex Ratio" in descending order.
+
+Method 1 - Manual Aggregation:
+Manually filtered and listed the top 5 cities by Sex Ratio.
+Created a pivot-style summary.
+
+Method 2 - AI-based Analysis:
+Used data formulas or tools to compute the average Sex Ratio for each city.
+Automatically extracted the top 5 cities.
+Provided a cleaner layout with average values and a summary row.
+
+Chart Creation:
+A column chart titled "Chart Showing Sex Ratios in City" was created to visually represent the top 5 cities with the highest Sex Ratio.
+
+🎯 Client Requirement Fulfilled?
+
+✅ Yes, the client requirement was fully met:
+The top 5 cities with the highest sex ratios were correctly identified.
+The result was presented both in tabular and visual (column chart) form.
+Two alternative methods were shown for task completion (manual and AI-based).
